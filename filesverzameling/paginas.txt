@@ -1,0 +1,88 @@
+Op de “Beroepsdocumenten“ pagina: https://kwaliteitsysteem.nl/downloads/ kunnen therapeuten, naast het Virtuele schild van hun beroepsorganisatie en GAT, diverse informatieve documenten en vele templates (die ze in hun praktijk kunnen gebruiken) downloaden. We raden therapeuten ter sterkste aan even goed de tijd te nemen om te onderzoeken wat hier te downloaden is, omdat dit wel eens veel tijd (en hoofdpijn) zou kunnen schelen.
+Op de “Beroepsdocumenten“ pagina zijn onder meer de volgende (vrij te gebruiken) templates te downloaden: Algemene voorwaarden, Verwerkersovereenkomst, Privacy Statement, Website Disclaimer, E-mail Disclaimer, Register Verwerkingsactiviteiten, Waarneming en overdracht overeenkomst, Behandelovereenkomst, Behandelplan, Artsenbrief, Cliëntendossier, Intervisie verslag formulier, Incidenten Registratie, en Visitatie vragenlijst.
+Op de “Beroepsdocumenten“ pagina zijn onder anderen de volgende documenten te downloaden: Wat is een AGB code, AGB code aanvragen, Visitatieplan, Data lek, Huiselijk geweld, Informatie VIM  (veilig incidenten melden code), Algemene voorwaarden, Privacy verklaring, Het regelement, Beroepscode, en Account Beheren.
+
+Op de “Bij- en nascholing“ pagina: https://kwaliteitsysteem.nl/bij-en-nascholing/ moeten therapeuten met vergoedingen hun bij- en nascholing uploaden en up-to-date te houden. Therapeuten zonder vergoedingen zijn dit niet verplicht.
+Als de pagina opent, wordt in een pop-up een overzicht van de bij- en nascholing die is gedaan (en die nog moet worden gedaan) getoond, samen met de einddatum van de huidige periode. Uitgebreide informatie hierover is te vinden in de linker kolom van deze pagina.
+In de rechterkolom de volgende vensters:
+- Bij- en nascholing | Nieuw | Upload: hier upload de therapeut de bewijzen van de bij- en nascholing waaraan is deelgenomen. In dit formulier zijn velden gemerkt met een sterretje (*) verplicht in te vullen velden.
+- Bij- en nascholing | Overzicht | Bewerken: een overzicht van de reeds geüploade bestanden, en die nog niet beoordeeld zijn. De bestanden in deze lijst zijn nog te bewerken en desgewenst te verwijderen.
+- Bij- en nascholing Erkend | In kluis huidige periode: een overzicht van alle uploads die zijn beoordeeld en naar de kluis zijn verplaatst.
+- Zoek een bij,- en/of nascholing: In dit zoekvenster kan de therapeut direct een geschikte Bij- en nascholing zoeken op GRO (gatregisteropleidingen.nl).
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=bij_en_nascholing
+
+De Cliënt account pagina is de pagina die als eerste opent als de therapeut inlogt op kwaliteitsysteem.nl.
+In de linker kolom van de pagina een overzicht met daarin  o.a. het lidmaatschapsnummer van de beroepsorganisatie (BO) en zaken die te maken hebben met de status van de therapeut o.a. de erkenning(en) die de BO je heeft toegekend. 
+In de rechterkolom zijn de volgende vensters te vinden:
+- “Systeem :: account inlog gegevens aanpassen”: Hier kan de therapeut de inloggegevens (e-mail en wachtwoord) aanpassen.
+- “Downloads”: Diverse downloads waaronder de licentie van de BO. en indien van toepassing diverse certificaten- “Links | Info | Documenten | Gereedschap“: handige bruikbare links.
+- “Mijn facturen”: Overzicht van alle (te downloaden) facturen.
+- “Codes | Koepel licentie“: Hier geef je o.a.. je AGB code op als je therapeut met vergoedingen bent. Zonder actieve AGB code heb je geen recht op vergoedingen
+- “Bank | Btw“: Voer hier je Bank en btw nummer in.
+- “Einddatums“ Hier kan een “vergoedbare therapeut” de einddatums vinden m.b.t. wanneer bepaalde onderdelen (zoals bv bij- en nascholing en intervisie) moeten zijn uitgevoerd en bijgewerkt in het systeem.
+- “ECD toegangscode“: Hier kun je de code vinden die je nodig hebt om jezelf aan te melden bij het gratis ECD.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=client_account
+
+In het menu (aan de rechterkant van de pagina’s op kwaliteitsysteem.nl) is door op “Info | Nieuws“ te klikken ons weblog. In dit weblog houden we de therapeuten op de hoogte van diverse zaken waar de therapeuten baat bij hebben. We voorzien ze van informatie m.b.t. het therapeutschap, de functionaliteit van kwaliteitsysteem.nl en algemene zaken die op dat moment spelen en van belang zijn. Onder het menu (aan de rechterkant van de pagina’s op kwaliteitsysteem.nl) worden de tien laatste berichten/posts uit ons weblog getoond. Het weblog is ook te bereiken via het hoofdmenu (bovenaan op de pagina’s) door op “Nieuws“ te klikken.
+
+Op de “Intervisie“ pagina: https://kwaliteitsysteem.nl/intervisie/ moeten therapeuten met vergoedingen hun intervisie uploaden en up-to-date te houden. Therapeuten zonder vergoedingen zijn niet verplicht intervisie te doen maar kunnen dit wel op vrijwillige basis doen. Therapeuten met vergoedingen zijn verplicht per jaar minimaal 3x 2uur intervisie te doen en bewijzen daarvan te uploaden op deze pagina.
+In de linker kolom van de intervisie pagina een overzicht van de opgegeven intervisie uren en de einddatum die aangeeft wanneer de therapeut aan de jaarlijkse verplichting moet hebben voldaan.
+In de rechterkolom de volgende vensters:
+- Intervisie | Nieuw | Upload: Hier upload de therapeut de bewijzen m.b.t. tot de bijgewoonde intervisies.
+- Intervisie | Overzicht | Bewerken: Lijst met nog niet beoordeelde bewijzen.
+- Intervisie | Erkend | Archief: Beoordeelde (en naar de kluis verplaatste) intervisiebewijzen.
+- Mijn Intervisiegroep: Informatie m.b.t. intervisiegroepen.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=intervisiegroep#intervisie
+
+Op de “Intervisiegroep“ pagina: https://kwaliteitsysteem.nl/intervisiegroep/ kunnen therapeuten een intervisiegroep zoeken (om zich bij aan te sluiten) of zelf een intervisiegroep aanmaken. Therapeuten met vergoedingen zijn verplicht per jaar 3 x 2 uur aan intervisie te doen maar hebben soms moeite een Intervisiegroep in hun buurt te vinden. Op deze pagina een kaart/map van Nederland met daarop geprojecteerd alle intervisiegroepen die op deze pagina zijn aangemaakt. Als je op een marker op de kaart klikt opent een pop-up met daarin informatie  (o.a. het e-mail adres) over van de “Groepsmanager“. Alleen de Groepsmanager kan nieuwe leden aan de groep toevoegen, verwijderen en een andere therapeut Groepsmanager maken. Wil je aansluiten bij een van de groepen stuur dan een verzoek per mail naar de Groepsmanager.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=intervisiegroep
+
+Therapeuten met vergoedingen en een account op kwaliteitsysteem.nl kunnen op de “Intervisiegroep“ pagina een bestaande intervisiegroep zoeken op de map/kaart. Boven de map in het “Intervisiegroep aanmaken | aanmelden“ venster kunnen therapeuten een nieuwe intervisiegroep aanmaken en/of een bestaande groep aanmelden. De therapeut die dit doet wordt automatisch groepsmanager van deze groep. Bij deze manager verschijnen dan nog twee vensters waar ze o.a. leden kunnen toevoegen, leden verwijderen en een ander lid manager kunnen maken. Alleen een groepsmanager kan leden toevoegen, verwijderen en een ander lid van de groep manager maken. Alleen therapeuten met vergoedingen zijn verplicht per jaar 3 x 2 uur intervisie te doen. Iedere therapeut upload 3 x per jaar een bewijs dat ze aan een intervisie hebben deelgenomen op de “Intervisie“ pagina. Per intervisie mag maar 2 uur worden opgegeven ook als de intervisie langer heeft geduurd. Een intervisiegroep moet uit minimaal  3 therapeuten bestaan. Ook therapeuten van een niet bij kwaliteitsysteem.nl aangesloten beroepsorganisatie mogen deelnemen. Therapeuten kunnen in het systeem maar aan een intervisiegroep tegelijk deelnemen. Dit wordt gecontroleerd met het nummer van de beroepsorganisatie. Een therapeut die al in een intervisiegroep zit moet dus eerst uitgeschreven worden in die ene groep voordat deze aangemeld kan worden bij een andere groep.
+
+Arbeidsongeschiktheidsverzekering (AOV):
+Op de “Mijn AOV" (https://kwaliteitsysteem.nl/aov/) pagina op kwaliteitsysteem.nl kunnen therapeuten een arbeidsongeschiktheidsverzekering aanvraag indienen om deel te mogen nemen met de collectieve AOV van BAT-verzekeringen. Meer informatie over de collectieve AOV op https://catcollectief.nl/reserveer-je-arbeidsongeschiktheidsverzekering/. In het formulier op de "Mijn AOV" pagina kunnen therapeuten de maandpremie (die ze per maand moeten gaan betalen) berekenen door:
+1. Een “Eigenrisicoperiode“ op te geven (3, 6 of 12 maanden).
+2. Het uit te keren bedrag per jaar op te geven (mag niet meer dan 80% van het huidig bruto jaarinkomen zijn).
+3. Op de knop “Bereken de premie“ te klikken.
+De maandpremie die gepaard gaat met de gemaakte keuzes wordt getoond onder de “Bereken de premie“ knop. Deze actie kan meerdere keren worden herhaald tot de therapeut tevreden is. De therapeut kan de begin datum nog aanpassen maar deze kan nooit voor de eerste dag van de daaropvolgende maand vallen! Om de aanvraag te versturen zet de therapeut de schakelaar voor de tekst “Ik ga er akkoord…“ om/aan en klikt op de “aanvraag AOV versturen“ knop.
+Meer informatie over de AOV in onze kennsibank: (https://kwaliteitsysteem.nl/kennisbank/doku.php?id=producten#mijn_aov_pagina).
+
+Op de “Persoonlijke gegevens“ pagina: https://kwaliteitsysteem.nl/client-persoonlijk/ vragen we de therapeuten de persoonlijke gegevens in te vullen en up-to-date te houden. Op deze pagina vult de therapeut zijn (eventueel ontbrekende) geboortegegevens aan en houd de Adres / Contact gegevens up-to-date. Verder moet de therapeut hier een Nederlands legitimatiebewijs uploaden in het “ID Upload“ venster. Dit is verplicht voor alle therapeuten! Als het ID is gezien (en goed bevonden) door ons zal het om privacy reden van de server worden verwijder. Het “Verklaring Omtrent Gedrag upload“ venster is alleen zichtbaar voor therapeuten die werken met vergoedingen. Alleen vergoedbare therapeuten zijn verplicht ten aller tijden een geldig (niet verlopen) VOG in het systeem te hebben staan en moeten die op deze pagina uploaden. Een VOG is 5 jaar geldig en als het verlopen is kunnen therapeuten op de “Service + Contact“ pagina voordelig een nieuwe aanvragen.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=persoonlijke_gegevens
+
+Op de “Praktijkgegevens“ pagina: https://kwaliteitsysteem.nl/client-praktijk/ vragen we de therapeuten de Praktijkgegevens in te vullen en up-to-date te houden. Op deze pagina de volgende vensters:
+- Praktijk naam | Locatie: Bij aanpassingen in dit venster worden de aangepaste gegevens ook doorgevoerd in onze boekhouding en op de zoek een therapeut pagina van de BO.
+- Contactgegevens Praktijk: Hier kan de website, het telefoonnummer en het e-mail adres van de praktijk worden aangepast. Dit is het e-mail adres dat wij gebruiken voor communicatie met de therapeut.
+- Overige | Aanvullende praktijkinformatie: Diverse opties.
+- Kamer van koophandel: Hier upload de therapeut het bewijs van inschrijving van de KvK. Alle therapeuten staan verplicht ingeschreven bij de KvK.
+- Beschrijving | Bio: Vrij door de therapeut in te vullen tekst dat word getoond in het profiel en op het kaartje van de “zoek een therapeut” van de beroepsorganisatie waar de therapeut bij is aangesloten.
+- Logo | Foto upload: Hier kan een therapeut een profielfoto of logo uploaden.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=praktijkgegevens
+
+Op de “Scholing | Diploma’s“ pagina: https://kwaliteitsysteem.nl/scholing/ vragen we de therapeuten hun relevante diploma’s en certificaten te uploaden en up-to-date te houden.
+In de linker kolom van de pagina een overzicht (van de studiepunten en SBU) van de eerder door de therapeut geüploade diploma’s. In dit overzicht is te zien hoeveel punten al zijn toegekend en hoeveel er nog niet beoordeeld zijn.
+In de rechterkolom de volgende vensters:
+- Diploma | Nieuw | Upload: Het formulier waar de therapeut de relevante diploma’s en certificaten upload. In dit formulier zijn velden gemerkt met een sterretje (*) verplicht in te vullen velden.
+- Diploma's | Overzicht | Bewerken: Een lijst met eerder geüploade documenten die nog te bewerken en (indien gewenst) te verwijderen zijn.
+- Diploma's Erkend | Archief: een lijst met reeds beoordeelde diploma’s en certificaten. De bestanden in deze lijst zijn verplaatst naar de kluis en niet meer in te zien en/of te beweren.
+- Zoek een scholing: In dit zoekvenster kan de therapeut direct een geschikte scholing/opleiding zoeken op GRO (gatregisteropleidingen.nl).
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=diplomas
+
+De “Screening | Extra“ pagina: https://kwaliteitsysteem.nl/screening-extra-uploads/ is bedoeld om extra informatie van de therapeut te verkrijgen tijdens het screeningsproces. De therapeut kan gevraagd worden extra bestanden/bewijzen/informatie te verstrekken.
+In de linker kolom kan de therapeut bestanden uploaden in het “Bestand Upload“ venster voor de volgende onderwerpen: een overstapverklaring (je overstap motivatie), een scholingsplan bewijs, een aanvulling op de werkervaring verklaring, en/of Iets anders. In het “Bestand Uploads Overzicht | Bewerken“ venster een overzicht van de eerder geüploade bestanden.
+In de rechterkolom van de pagina nog de vensters “HBO werkervaring opgeven (voor SP)“ en “Overstapverklaring“. We raden therapeuten aan het “HBO werkervaring opgeven (voor SP)“ formulier altijd in te vullen dit kan ze namelijk extra studiepunten opleveren.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=het_screenings_proces
+
+Op de “Service + Contact“ pagina: https://kwaliteitsysteem.nl/contact-center/ kunnen therapeuten met een account op kwaliteitsysteem.nl:
+- Op werkdagen (tussen 10:00 en 12:00 uur en tussen 14:00 en 16:00 uur) live chatten met een medewerker
+- 24/7 (dag en nacht) chatten met de CATviseur (onze AI chatbot)
+- Zelf een belafspraak met een medewerker inplannen
+- Doorgeven dat ze de gevraagde stukken hebben geüpload (m.b.t. screening, Intervisie, bij- en nascholing en/of visitatie)
+- Dossier actualisatie aanvragen (een nieuwe prestatie code of erkenning door CAT-vergoedbaar of Complementaire Kwaliteitstherapeuten)
+- Een downgrade verzoek indienen
+- Een registratie wijzigen verzoek (verzoek tot uitschrijven) indienen
+- Voordelig een VOG aanvragen
+- Informatie m.b.t. de visitatie doorgeven aan de visiteur
+
+Op de “Visitatie“ pagina: https://kwaliteitsysteem.nl/visitatie/ moeten therapeuten met vergoedingen hun visitatie bewijs en gevraagde stuken uploaden. Therapeuten zonder vergoedingen zijn niet verplicht een visitatie te ondergaan maar kunnen dit wel op vrijwillige basis aanvragen via de live-chat op kwaliteitsysteem.nl. Vergoedbare therapeuten zijn verplicht eens in de 5 jaar een visitatie te ondergaan. Echter zal (na erkenning en/of upgrade) de eerste visitatie niet 5 jaar maar (afhankelijk van de beroepsorganisatie waarbij ze aangesloten zijn) 1 of 1,5 jaar na de erkenningsdatum plaats vinden. Bestanden die hier geüpload zijn zijn later nog terug te vinden (en te bewerken) vanuit het “Visitatie | Overzicht | Bewerken“ venster. Onder de kop “Visitatieplan CAT vergoedbaar“ kan de therapeut verder nog informatie en de “Visitatie vragenlijst“ (die de therapeut dient in te vullen (en daarna dient te uploaden)) downloaden. Op deze pagina uploaden de therapeuten dus alles wat met de visitatie te maken heeft.
+Info in onze kennisbank: kwaliteitsysteem.nl/kennisbank/doku.php?id=visitatie
