@@ -1,8 +1,9 @@
 # pineconevuller
-Nieuw app om Pinecone db te vullen met new embedding Model en laatste versie Langchain.
+Python App om Pinecone db te vullen met data uit .txt bestanden uit de map "files"
 
-Geen UI.
+Bestanden vullen met tekstblokken gescheiden door dubbele zachte linebreak (\n\n)
 
-bestanden in de files map plaatsten en app starten met python app.py
+Inhoud hoeft niet per gedeelte hetzelfde aantal leestekens te hebben. Ik heb persoonlijk tussen de 1000 en 16000 aangehouden.
 
+Geen UI. Bestanden in de files map plaatsten en app starten met python app.py
 Zie console voor traces 

@@ -11,7 +11,7 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 pineKey = st.secrets["PINECONE_API_KEY"]
 pineEnv = st.secrets["PINECONE_ENVIRONMENT"]
-pineInd = st.secrets["PINECONE_INDEX_NAME2"]
+pineInd = st.secrets["PINECONE_INDEX_NAME"]
 pinemod = "text-embedding-3-small"
 
 
