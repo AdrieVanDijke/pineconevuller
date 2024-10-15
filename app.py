@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 from pinecone import Pinecone, ServerlessSpec
 from langchain_community.vectorstores import Pinecone as LangChainPinecone
 from langchain_openai.embeddings import OpenAIEmbeddings
