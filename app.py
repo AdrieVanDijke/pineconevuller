@@ -25,7 +25,7 @@ class Document:
 def main():
     doc_db = embedding_db()
     print(doc_db)
-    print("Bestanden weggeschreven naar Vector DB")
+    print("Bestanden weggeschreven naar PineCone DB")
 
 
 def embedding_db():
